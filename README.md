@@ -8,6 +8,10 @@
 
 ## 🚀 Portfolio Projects
 
+* 📅 Interactive Calendar Web App
+  A responsive and modern calendar built with HTML, Tailwind CSS, and JavaScript.
+  📂 [View Code] (https://github.com/Jino1999/calendar-app)
+
 * 📝 [To-Do List with Alarm](https://jino1999.github.io/todo-bell-app/)
   Countdown timer, bell alarm, dark mode, drag & drop
   📂 [View Code](https://github.com/jino1999/todo-bell-app)
@@ -16,9 +20,9 @@
   Real-time weather using OpenWeatherMap API
   📂 [View Code](https://github.com/jino1999/weather-app)
 
-* 🏨 [Hotel Reservation Form](https://jino1999.github.io/hotel-reservation-site/)
+* 🏨 [Hotel Reservation Form]([https://(https://github.com/Jino1999/Hotel-Reservation)
   Google Sheets integration
-  📂 [View Code](https://github.com/jino1999/hotel-reservation-site)
+  📂 [View Code](https://github.com/Jino1999/Hotel-Reservation)
 
 * 💼 [My Portfolio](https://jino1999.github.io/portfolio/)
   Simple, clean, and responsive project showcase
