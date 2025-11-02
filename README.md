@@ -24,9 +24,10 @@
   Google Sheets integration
   📂 [View Code](https://github.com/Jino1999/Hotel-Reservation)
 
-* 💼 [My Portfolio](https://jino1999.github.io/portfolio/)
-  Simple, clean, and responsive project showcase
-  📂 [View Code](https://github.com/jino1999/portfolio)
+  📂 Ecommerce-front-end-sample (https://jino1999.github.io/my-ecommerce-sample/)
+     responsive design, dynamic cart features, and template projects.
+ 
+
 
 ---
 
